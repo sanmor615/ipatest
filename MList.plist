@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.5.11/assets/ipa/mlist.ipa</string>
+					<string>http://yj-app-update.oss-cn-shanghai.aliyuncs.com/zyumjIPA/mlist.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.5.11/assets/ipa/icon.png</string>
+					<string>http://yj-app-update.oss-cn-shanghai.aliyuncs.com/zymjIPA/Icon-120.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,19 +27,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.5.11/assets/ipa/icon.png</string>
+					<string>http://yj-app-update.oss-cn-shanghai.aliyuncs.com/zymjIPA/Icon-120.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.morningtec.mlist.demo</string>
+				<string>com.yaojigames.zymj</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.0.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>妖怪名单</string>
+				<string>资阳麻将</string>
 			</dict>
 		</dict>
 	</array>
